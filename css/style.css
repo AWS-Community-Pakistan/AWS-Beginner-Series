@@ -4700,3 +4700,7 @@ position:relative;
 b{
         font-size:18px;
     }
+
+    #sponsors{
+      margin-top: -90px;
+    }
